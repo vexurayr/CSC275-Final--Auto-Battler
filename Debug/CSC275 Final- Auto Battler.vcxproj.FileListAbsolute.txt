@@ -1,0 +1,3 @@
+D:\Visual Studio Projects\CSC275\CSC275 Final- Auto Battler\Debug\CSC275 Final- Auto Battler.exe
+D:\Visual Studio Projects\CSC275 C++\CSC275 Final- Auto Battler\Debug\CSC275 Final- Auto Battler.exe
+F:\Visual Studio Projects\CSC275 C++\CSC275 Final- Auto Battler\Debug\CSC275 Final- Auto Battler.exe

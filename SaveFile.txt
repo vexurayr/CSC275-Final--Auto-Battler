@@ -1,0 +1,8 @@
+sam
+99 = Player Heath
+140 = Player Max Health
+118 = Player Damage
+58 = Player XP Until Level Up
+120 = XP gained from killing an enemy
+57 = Player Level
+71 = loop#

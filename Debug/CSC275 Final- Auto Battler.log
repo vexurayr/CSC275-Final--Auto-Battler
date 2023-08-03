@@ -1,0 +1,9 @@
+﻿  CSC275 Final- Auto Battler.cpp
+F:\Visual Studio Projects\CSC275 C++\CSC275 Final- Auto Battler\Functions.cpp(244,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+F:\Visual Studio Projects\CSC275 C++\CSC275 Final- Auto Battler\Functions.cpp(245,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+F:\Visual Studio Projects\CSC275 C++\CSC275 Final- Auto Battler\CSC275 Final- Auto Battler.cpp(22,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Functions.cpp
+F:\Visual Studio Projects\CSC275 C++\CSC275 Final- Auto Battler\Functions.cpp(244,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+F:\Visual Studio Projects\CSC275 C++\CSC275 Final- Auto Battler\Functions.cpp(245,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  CSC275 Final- Auto Battler.vcxproj -> F:\Visual Studio Projects\CSC275 C++\CSC275 Final- Auto Battler\Debug\CSC275 Final- Auto Battler.exe
